@@ -1,0 +1,24 @@
+*
+body {
+    margin: 0;
+    padding: 0;
+  }
+
+  footer{
+    background-color: rgba(128, 128, 128, 0.603);
+    
+  }
+
+
+.googlemaps{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.derechos{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
